@@ -1,8 +1,5 @@
 library(reshape2)
 
-wd = "//home//martin-trejo//Dropbox//Coursera_Specializations//Data_Science_Specialization//Getting_and_Cleaning_Data//project"
-setwd(wd)
-
 filename <- "getdata_projectfiles_UCI HAR Dataset.zip"
 
 ## Create ./data directory if it does not exist
