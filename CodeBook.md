@@ -132,4 +132,3 @@ The variables prefixed with 'freq' represent values in frequency domain.
 84) 	anglexgravitymean 
 85) 	angleygravitymean 
 86) 	anglezgravitymean
-
