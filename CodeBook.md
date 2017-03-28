@@ -4,7 +4,7 @@ This code book presents the description of the variables and data contained in
 the tidy data set.
  
 The features selected for this data set come from averaged measurements of 
-accelerometer and gyroscope 3-axial raw signals tAcc-XYZ and tGyro-XYZ.
+accelerometer and gyroscope 3-axial mead and std signals.
 
 ## Tidy Data Set File Name
 
