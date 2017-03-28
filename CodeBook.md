@@ -33,6 +33,12 @@ The following are the values the 'activityname' variable can take.
 * (4) SITTING: The measurements come from a sitting test subject.
 * (5) STANDING: The measurements come from a standing test subject.
 * (6) LAYING: The measurements come from a lying test subject.
+## Data units
+
+* Inertial Signals (Total acceleration): The acceleration signal in standard gravity 
+units 'g' for X, Y, and Z axis. 
+* Inertial Signals (body_acceleration): The body acceleration signal obtained by subtracting the gravity from the total acceleration, the units are 'g'. 
+* Inertial Signals (body gyroscope): The angular velocity vector measured by the gyroscope. The units are radians/second. 
 
 ## Measurment Variables
 
